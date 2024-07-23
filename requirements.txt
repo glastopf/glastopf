@@ -4,7 +4,7 @@ pyopenssl
 lxml
 sqlalchemy>=0.8.0
 jinja2
-beautifulsoup>=3.2.0
+beautifulsoup4
 requests>=2.20.0
 cssselect>=0.7.0
 pymongo>=2.4
